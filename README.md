@@ -1,4 +1,4 @@
-# CAPSTONE_PROJECT_CYCLISTIC_BIKE-SHARE
+# Capstone project: Cyclistic Bike Share
 This is an optional case study that I have done from the Google Data Analytics Professional Certificate
 
 ## About the Company
