@@ -26,6 +26,7 @@ These are the six steps that allowed me to run this project for data analysis:
 
 ## Sources
 These data have been gathered from Dec 2021 to Dec 2022, we can find in the link below:
+
 https://divvy-tripdata.s3.amazonaws.com/index.html
 
 ## Tools
